@@ -1,0 +1,26 @@
+OnScope Studios
+Unity Tutorials: Creating Inventory Part 1 - 9.
+https://www.youtube.com/watch?v=KLaGkc87dDQ
+
+Item to be added to the inventory will be randomly selected
+when Player(cube gameobject) hits ItemGenerator(cube gameobject)
+OnTriggerEnter....
+
+there is Save and Load button, 
+
+Press B to open inventory, same key close
+Press C to open Character Panel, 
+moving from inventory to character panel slot, use mouse right click 
+item will move to right positions.......
+
+
+currently Character panel slot can be equipped same type of items..
+Helmet can be added only to the Head slot.
+
+You can move items with mouse drag, but do not know which items to where so better 
+use mouse right click (USE item function key)
+
+
+Item data stored in XML file(streaming asset folder).
+
+

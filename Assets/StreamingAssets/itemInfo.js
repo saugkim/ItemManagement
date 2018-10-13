@@ -1,0 +1,1 @@
+{"currentWeaponName":"Weapon001","currentArmorName":"","currentRing1Name":"","currentRing2Name":"","currentNeckName":"","currentTrinketName":"","currentPotionName":"","currentBoosterName":""}
